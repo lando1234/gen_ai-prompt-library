@@ -49,3 +49,12 @@ Meta-prompts require understanding of:
 - Prompts that analyze code or systems (→ `analysis/`)
 
 **Rule of thumb:** If the output is NOT a prompt, it doesn't belong here.
+
+---
+
+## Available Prompts
+
+| Prompt | Complexity | Description | Production Ready |
+|--------|------------|-------------|------------------|
+| [Design Prompt with Neura Architect](neura-prompt-creator.md) | Advanced | Multi-mode prompt architect (Fast/Educational/Blueprint) for designing, auditing, and optimizing prompts. Includes full and token-efficient versions. | Yes |
+| [Analyze Prompt for Failure Modes](analyze-prompt-for-failure-modes.md) | Advanced | Forensic audit tool for identifying production failure modes in prompts (security, edge cases, hallucinations, consistency). Combines security, QA, and reliability engineering perspectives. | Yes |
