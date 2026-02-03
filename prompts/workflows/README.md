@@ -64,6 +64,15 @@ Workflow prompts require:
 
 ---
 
+## Prompts in This Category
+
+| Prompt | Complexity | Description | Production Ready |
+|--------|------------|-------------|------------------|
+| [Guide PRD Creation with Adaptive Workflow](guide-prd-creation-adaptive.md) | Advanced | Multi-phase PRD creation with adaptive LITE/FULL classification, UX/technical facilitation, and quality gates | Yes |
+| [Guide PRD Creation (Quick Reference)](guide-prd-creation-quick-reference.md) | Intermediate | Condensed version of adaptive PRD workflow for experienced PMs (~70% token reduction) | Yes |
+
+---
+
 ## Workflow Prompt Structure
 
 Workflow prompts should include:
