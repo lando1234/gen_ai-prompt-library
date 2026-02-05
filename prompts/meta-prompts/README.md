@@ -58,3 +58,4 @@ Meta-prompts require understanding of:
 |--------|------------|-------------|------------------|
 | [Design Prompt with Neura Architect](neura-prompt-creator.md) | Advanced | Multi-mode prompt architect (Fast/Educational/Blueprint) for designing, auditing, and optimizing prompts. Includes full and token-efficient versions. | Yes |
 | [Analyze Prompt for Failure Modes](analyze-prompt-for-failure-modes.md) | Advanced | Forensic audit tool for identifying production failure modes in prompts (security, edge cases, hallucinations, consistency). Combines security, QA, and reliability engineering perspectives. | Yes |
+| [Challenge Ideas Constructively](challenge-ideas-constructively.md) | Advanced | Socratic dialogue agent for stress-testing ideas through constructive skepticism. Surfaces weaknesses, edge cases, and assumptions without solving. Includes CoVe verification and command-triggered verdict. | Yes |
