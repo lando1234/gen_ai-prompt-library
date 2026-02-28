@@ -70,6 +70,7 @@ Workflow prompts require:
 |--------|------------|-------------|------------------|
 | [Guide PRD Creation with Adaptive Workflow](guide-prd-creation-adaptive.md) | Advanced | Multi-phase PRD creation with adaptive LITE/FULL classification, UX/technical facilitation, and quality gates | Yes |
 | [Guide PRD Creation (Quick Reference)](guide-prd-creation-quick-reference.md) | Intermediate | Condensed version of adaptive PRD workflow for experienced PMs (~70% token reduction) | Yes |
+| [Setup Team Management Center](setup-team-management-center.md) | Expert | Claude Code skills kit that bootstraps a complete management center (initiatives, quarterly planning, team capacity, executive updates) from 5 parameters | Yes |
 
 ---
 
